@@ -1,5 +1,6 @@
 # MSExcel-Numerical-Integration
 This contains Visual Basic Code for numerical integration (using Romberg method) in Microsoft Excel. Enter *x* in any cell and enter the formula for *f(x)* in another cell. (You may use any number of intermediate cells to help compute *f(x)*). The VBA code computes the integral from *a* to *b* of *f(x) dx*
+
 The software consists of a form and some VBA code. The form allows the user to provide the following inputs:
 * the cell containing *x*
 * the cell containing *f(x)*
